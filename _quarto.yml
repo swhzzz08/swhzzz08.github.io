@@ -4,20 +4,27 @@ project:
   
 
 website:
-  title: "temp_website"
+  title: "SWH Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: about.qmd
+        text: FYP Project
+      - href: new1.qmd
+        text: Data Visualisation
+      - href: new2.qmd
+        text: Reflection
+        
 format:
   html:
     theme:
-      - cosmo
+      - darkly
       - brand
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
 
 
 

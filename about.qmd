@@ -1,9 +1,73 @@
 ---
-title: "About"
+title: "FYP Project"
 ---
+Final Year Project (FYP)
+Project Title
 
-About this site
+Exploring Brand Portfolio Strategies and Financial Performance in the Automotive Industry
 
-```{r}
-1 + 1
-```
+Project Background
+
+The automotive industry is highly competitive, with major manufacturers adopting different strategies to expand their market presence. One common approach is brand portfolio expansion, where companies acquire or develop multiple brands to target different customer segments.
+
+My Final Year Project focuses on analyzing how these large automotive companies build brand empires and how the number of brands they own relates to their financial performance.
+
+Project Objectives
+
+The key objectives of this project were:
+
+To compare the number of brands owned by major automotive manufacturers
+
+To analyze the relationship between brand ownership and company earnings
+
+To use data visualization to communicate insights clearly and effectively
+
+Data and Visualization
+
+{width=85%}
+
+Figure: Number of brands owned by selected car manufacturers and their EBIT (in billion USD).
+
+The visualization presents two quantitative variables:
+
+A horizontal bar chart showing the number of brands or marques owned by each company
+
+Circular markers indicating Earnings Before Interest and Tax (EBIT) over the period Q2 2021 to Q1 2022
+
+Key Findings
+
+From the visualization and analysis:
+
+Volkswagen Group owns the highest number of brands, indicating an aggressive brand expansion strategy.
+
+Toyota, despite owning fewer brands, achieves one of the highest EBIT values, suggesting strong operational efficiency.
+
+Companies such as Tesla demonstrate that high profitability can be achieved even with a limited number of brands.
+
+These findings suggest that while brand expansion increases market coverage, it does not guarantee higher profitability.
+
+Rationale for Visualization Choice
+
+This visualization was chosen because:
+
+It allows direct comparison between companies
+
+It effectively combines categorical data (companies) and numerical data (brand count and earnings)
+
+The layout makes it easy to identify patterns and outliers
+
+By presenting multiple variables in a single view, the visualization supports data-driven storytelling.
+
+Skills and Learning Outcomes
+
+Through this Final Year Project, I developed and strengthened skills in:
+
+Data analysis and interpretation
+
+Data visualization principles
+
+Critical thinking and business insight generation
+
+Communicating complex information clearly using visuals
+
+This project helped me understand how data visualization can be used not only for presentation, but also as a tool for analytical reasoning.

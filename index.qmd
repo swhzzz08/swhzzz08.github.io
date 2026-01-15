@@ -2,10 +2,5 @@
 title: "temp_website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+I am currently a Year 1 student studying in Singapore Institute of Technology (SIT), pursuing a degree in Bachelor of Applied Computing (FinTech). Some of my hobbies are playing games and basketball.
 ```

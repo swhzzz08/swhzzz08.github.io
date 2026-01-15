@@ -1,0 +1,64 @@
+---
+title: "Data Visualization"
+---
+
+![](image.png)
+
+
+Analysis of Brand Ownership and Financial Performance in Major Automotive Companies
+
+Project Overview
+
+This is my analysis on how large automotive companies build brand empires through the ownership of multiple marques, and how this strategy relates to their financial performance. The project uses quantitative data to explore whether owning more brands necessarily leads to higher earnings.
+
+Data Visualization Used in the Project
+
+{width=85%}
+
+Figure: Number of brands owned by major car manufacturers and their earnings (EBIT).
+
+The visualization above compares:
+
+Number of brands/marques owned by each car manufacturer (bar chart)
+
+Earnings before interest and tax (EBIT) in billion U.S. dollars (circular markers)
+
+What the Visualization Shows
+
+From the visualization, we can observe that:
+
+Volkswagen Group owns the highest number of brands (16), forming the largest brand portfolio among the companies shown.
+
+Toyota, despite owning fewer brands (5), records one of the highest EBIT values, indicating strong profitability.
+
+Some companies with fewer brands, such as Tesla, still achieve significant earnings, suggesting that brand quantity alone does not determine financial success.
+
+This highlights the difference between brand expansion strategies and operational efficiency.
+
+Why This Visualization Was Chosen
+
+This visualization was chosen because:
+
+It effectively compares two quantitative variables: number of brands and earnings
+
+The horizontal bar chart allows easy comparison of brand ownership
+
+The circular markers provide a clear visual cue for financial performance
+
+By combining these elements, the visualization tells a clear business story in a single view.
+
+Insights and Learning Outcomes
+
+Through this project, I learned that:
+
+Data visualization can reveal insights that are not immediately obvious from raw numbers
+
+Owning more brands does not always translate into higher profitability
+
+Strategic focus and operational efficiency play a critical role in business success
+
+This project strengthened my understanding of data-driven analysis, visual storytelling, and how visualization can support strategic decision-making in real-world business contexts.
+
+Conclusion
+
+This Final Year Project demonstrates how quantitative data and visualization techniques can be used to analyze industry trends and business strategies. The insights gained from this project emphasize the importance of thoughtful interpretation of data rather than relying solely on surface-level metrics.

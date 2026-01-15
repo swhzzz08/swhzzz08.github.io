@@ -1,0 +1,56 @@
+---
+title: "Reflection"
+---
+
+Reflection on the Use of GenAI
+GenAI Tools Used
+
+In this assessment, I used ChatGPT as the primary GenAI tool to assist me in completing the tasks. I chose this tool because it is capable of providing clear explanations, structured guidance, and examples related to Quarto, GitHub Pages, markdown formatting, and data visualization concepts, which are essential for this assignment.
+
+How GenAI Helped Me Complete the Assessment
+
+GenAI supported me throughout different stages of the assessment:
+
+Technical setup: It helped me understand the correct steps to create a GitHub Pages repository, clone it into RStudio, and configure the Quarto project properly. For example, it clarified why the repository name must exactly match my GitHub username and how to fix directory-related errors.
+
+Content structuring: GenAI assisted in drafting structured content for different website pages, such as the Data Visualization page and the Final Year Project page. This helped me organize my ideas more clearly rather than starting from a blank page.
+
+Markdown and formatting: It provided examples of markdown syntax for headings, images, lists, and captions, which improved the presentation and readability of my website.
+
+Reflection guidance: GenAI helped me understand what aspects to reflect on, ensuring that my reflection was relevant to the assessment requirements.
+
+Benefits of Using GenAI
+
+The main benefits of using GenAI include:
+
+Efficiency: It significantly reduced the time needed to troubleshoot technical issues and draft content.
+
+Clarity: Explanations were easy to understand, especially for complex concepts such as YAML configuration and GitHub Pages deployment.
+
+Learning support: Instead of giving final answers only, GenAI helped me understand why certain steps were required, which improved my learning experience.
+
+Challenges and Limitations
+
+Despite its usefulness, there were also challenges:
+
+GenAI responses still require critical thinking. Some suggestions needed to be adjusted to fit the exact assessment rules.
+
+Over-reliance on GenAI could reduce independent problem-solving if not used carefully.
+
+The tool does not fully understand my personal context unless I clearly explain it, so human judgment is still necessary.
+
+Future Use of GenAI in Study and Work
+
+In the future, I believe GenAI tools will be highly beneficial for:
+
+Supporting coding and debugging tasks
+
+Drafting reports and documentation
+
+Brainstorming ideas and improving clarity in technical communication
+
+However, I will continue to use GenAI as a supporting tool rather than a replacement for my own thinking and learning.
+
+Final Thoughts
+
+Overall, the use of GenAI enhanced my productivity and confidence in completing this assessment. When used responsibly, GenAI can be a powerful learning aid that complements human effort and supports applied learning, which aligns well with the learning objectives of this course.
